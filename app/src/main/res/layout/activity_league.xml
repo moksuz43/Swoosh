@@ -72,13 +72,13 @@
             android:id="@+id/toggleButton2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="16dp"
             android:background="@drawable/swooshbutton"
             android:text="ToggleButton"
             android:textColor="@android:color/background_light"
             android:textOff="Womens"
             android:textOn="Womens"
-            tools:layout_marginBottom="8dp"
+            tools:layout_marginBottom="16dp"
             tools:text="Womens" />
 
         <ToggleButton
